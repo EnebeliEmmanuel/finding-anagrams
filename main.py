@@ -10,9 +10,9 @@ def find_anagrams(word1, word2):
     else:
       return False
 
-find_anagrams("hello", "ello")
-find_anagrams("kok", "kok")
-find_anagrams("cool", "cool")
+# find_anagrams("hello", "ello")
+# find_anagrams("kok", "kok")
+# find_anagrams("cool", "cool")
 
 print(find_anagrams("hello", "ello")) 
 print(find_anagrams("kok", "kok")) 
